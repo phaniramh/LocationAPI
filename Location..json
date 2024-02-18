@@ -1,0 +1,47 @@
+{
+	"Locations": [
+		{
+			"LocationId": 1,
+			"location": "Jorgia"
+		},
+		{
+			"LocationId": 2,
+			"location": "Germany"
+		},
+
+		{
+			"LocationId": 3,
+			"location": "California"
+		},
+		{
+			"LocationId": 4,
+			"location": "California"
+		},
+		{
+			"LocationId": 5,
+			"location": "Hyderabad"
+		},
+		{
+			"LocationId": 6,
+			"location": "sweden"
+		},
+		{
+			"LocationId": 7,
+			"location": "Seatle"
+		},
+
+		{
+			"LocationId": 8,
+			"location": "Vizag"
+		},
+		{
+			"LocationId": 9,
+			"location": "NewJersy"
+		},
+		{
+			"LocationId": 10,
+			"location": "stackhome"
+		}
+	]
+}
+
